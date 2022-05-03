@@ -118,7 +118,8 @@ PRC state media, usually referring to companies or other organizations.
 
 #### "Reunification"
 
-We find that both Italy and Spain most prefer the term "reunification/reunify."
+We find that both Italy and the UK most prefer the term "reunification/reunify,"
+followed by Spain.
 
 ![reunification](/country_phrase_comparison/reunification.jpg?raw=true "reunification")
 
@@ -130,10 +131,13 @@ We also break this down by media for Italy:
 
 ![Italy reuinfy](/media_phrase_comparison/Italy/reunify.jpg?raw=true "Italy reunify")
 
-and Spain:
+and UK:
 
-![Spain reunification](/media_phrase_comparison/Spain/reunification.jpg?raw=true "Spain reunification")
+![UK reunification](/media_phrase_comparison/UK/reunification.jpg?raw=true "UK reunification")
 
-![Spain reuinfy](/media_phrase_comparison/Spain/reunify.jpg?raw=true "Spain reunify")
+![UK reuinfy](/media_phrase_comparison/UK/reunify.jpg?raw=true "UK reunify")
+
+#### "Taiwanese"
+
 
 
