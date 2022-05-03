@@ -106,9 +106,15 @@ all media in all countries:
 
 ![Topics per Country](/topic_coverage/per_country.jpg?raw=true "Topics per Country")
 
-Please follow these links to analyses for each country:
+Please follow these links to selected findings for each country:
 - [UK](https://github.com/doublethinklab/media-alignment-2022/blob/main/UK-analysis.md)
 - [Italy](https://github.com/doublethinklab/media-alignment-2022/blob/main/Italy-analysis.md)
+- [Egypt]()
+- [Jordan]()
+- [Lebanon]()
+- [India]()
+- [France]()
+- [Spain]()
 
 ## Future Work
 
