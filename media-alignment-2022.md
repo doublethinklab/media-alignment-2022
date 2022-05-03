@@ -137,6 +137,19 @@ and UK:
 
 ![UK reuinfy](/media_phrase_comparison/UK/reunify.jpg?raw=true "UK reunify")
 
+We can see for Italy this pattern is lead by Ansa and XXX.
+Ansa is noteworthy as they have republication agreements with the PRC state media.
+We note, for example, the use of reunification in [this article](https://www.ansa.it/sito/notizie/mondo/asia/2021/12/29/cina-misure-drastiche-se-taiwan-verso-indipendenza_e627e93c-808f-42cd-957f-0b2904e4f62a.html) in our sample,
+which reads like an unattributed PRC state media press release,
+but is marked as an Ansa editorial.
+This is certainly PRC influence, producing an article such as this.
+
+For the UK, it is The Guardian and the Daily Mail leading usage of this term.
+It is unlikely these editorial decisions are a function of PRC influence in 
+these cases, as these newspapers have no know ideological or financial ties
+to the CCP. We therefore suggest that editors of these newspapers think 
+carefully about usage of this term.
+
 #### "Taiwanese"
 
 
