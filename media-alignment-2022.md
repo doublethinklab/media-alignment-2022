@@ -137,7 +137,7 @@ and UK:
 
 ![UK reuinfy](/media_phrase_comparison/UK/reunify.jpg?raw=true "UK reunify")
 
-We can see for Italy this pattern is lead by Ansa and XXX.
+We can see for Italy this pattern is lead by Ansa and tg24.
 Ansa is noteworthy as they have republication agreements with the PRC state media.
 We note, for example, the use of reunification in [this article](https://www.ansa.it/sito/notizie/mondo/asia/2021/12/29/cina-misure-drastiche-se-taiwan-verso-indipendenza_e627e93c-808f-42cd-957f-0b2904e4f62a.html) in our sample,
 which reads like an unattributed PRC state media press release,
@@ -152,5 +152,13 @@ carefully about usage of this term.
 
 #### "Taiwanese"
 
+Usage of the term "Taiwanese" is generally high, especially for the UK.
+It appears to be salient that the lowest rates of usage of this term come
+from Spain and Italy.
 
+![Taiwanese](/country_phrase_comparison/Taiwanese.jpg?raw=true "Taiwanese")
 
+This is consistent with the view that the UK media's relatively high usage of 
+"reunification/reunify" represents questionable editorial decisions and not PRC
+influence. On the other hand, it supports the view that the Italian and Spanish
+media report on Taiwan in a way more consistently aligned with CCP ideology.
