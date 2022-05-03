@@ -61,8 +61,8 @@ This provides a way to capture uncertainty when conducting comparisons.
 Direct and indirect quotes are ubiquitous in news text data.
 The relative amounts of attention given to CCP-aligned and opposed phrases
 do not necessarily reflect PRC influence on a given media outlet or national media space.
-Instead, these patterns of attention likely reflect editorial decisions to present
-a balanced picture, often quoting PRC officials.
+Instead, these patterns of attention may reflect editorial decisions to present
+a balanced picture, quoting PRC officials.
 
 These comparisons cannot be considered comprehensive for three reasons.
 First, we have only enumerated a subset of the potential aligned and opposed noun
