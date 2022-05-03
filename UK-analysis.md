@@ -6,9 +6,8 @@ The relative attention give to each topic per media is:
 
 ![Topics per Media UK](/topic_coverage/UK-per_media.jpg?raw=true "Topics per Media UK")
 
-Other than our catch-all, general China topic, in our sampling period the UK
-media appear most interested in the Xinjiang topic. Sky appears to have relatively
-little interest in Taiwan, although relatively interested in Hong Kong.
+The Guardian and Sky appear to lead coverage of PRC-related topics in the UK, 
+publishing the highest proportion of their content on our set of topics.
 
 ## Xinjiang
 
