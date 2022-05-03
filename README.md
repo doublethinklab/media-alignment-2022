@@ -7,7 +7,7 @@ View the phrase guide [here](https://github.com/doublethinklab/media-alignment-2
 The raw data outputs are available in the following locations:
 - [Phrase lists](https://github.com/doublethinklab/media-alignment-2022/blob/main/data.csv)
 - [Document and topic counts](https://github.com/doublethinklab/media-alignment-2022/blob/main/doc_counts.csv).
-- [Topic determinations are urls](https://github.com/doublethinklab/media-alignment-2022/tree/main/topics_urls).
+- [Topic determinations with urls](https://github.com/doublethinklab/media-alignment-2022/tree/main/topics_urls).
 - [Phrase counts](https://github.com/doublethinklab/media-alignment-2022/blob/main/phrase_counts.csv).
 - [Entity counts](https://github.com/doublethinklab/media-alignment-2022/blob/main/entity_counts.csv).
 
