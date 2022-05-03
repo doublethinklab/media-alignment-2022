@@ -36,7 +36,7 @@ A random sample of the appearances of `religious extremism` appear to be attempt
 at editorial balance, [indirectly](https://www.dailymail.co.uk/wires/reuters/article-10476893/Olympics-Putin-Xi-mix-politics-sport-unveiling-alliance-Olympics.html) quoting PRC officials.
 Daily Mail and The Independent are most likely to make this editorial choice.
 
-![UK religious extremism](/media_phrase_comparison/UK/religious extremism.jpg?raw=true "UK religious extremism")
+![UK religious extremism](/media_phrase_comparison/UK/religious%20extremism.jpg?raw=true "UK religious extremism")
 
 The Independent is an interesting case in light of the publication’s ownership 
 and a November 18, 2021 deal to begin publishing the China Daily-issued 
@@ -58,7 +58,7 @@ terrible editorial decision.
 
 The topic with the second highest attention in UK is Hong Kong.
 
-![UK Hong Kong](/country_topic_phrases/UK-Hong Kong.jpg?raw=true "UK Hong Kong")
+![UK Hong Kong](/country_topic_phrases/UK-Hong%20Kong.jpg?raw=true "UK Hong Kong")
 
 As expected, the UK media shows significant editorial balance in reporting on
 Hong Kong issues, and does not shy away from CCP-opposed framings of protests
@@ -74,7 +74,7 @@ This is also very apparent in our catch-all "China" topic.
 The Independent leads in preference for attention given to the phrase
 `new Cold War`.
 
-![UK new Cold War](/media_phrase_comparison/UK/new Cold War.jpg?raw=true "UK new Cold War")
+![UK new Cold War](/media_phrase_comparison/UK/new%20Cold%20War.jpg?raw=true "UK new Cold War")
 
 Notably, this term appears in [opinion](https://www.independent.co.uk/voices/culture-wars-boris-johnson-threat-to-uk-b1885436.html), 
 not as quotes, in the Independent.
@@ -82,7 +82,7 @@ This may or may not be ideological alignment between the CCP and The Independent
 
 The BBC has the lead on using the phrase `Cold War mentality`.
 
-![UK Cold War mentality](/media_phrase_comparison/UK/Cold War mentality.jpg?raw=true "UK Cold War mentality")
+![UK Cold War mentality](/media_phrase_comparison/UK/Cold%20War%20mentality.jpg?raw=true "UK Cold War mentality")
 
 However, this is largely accounted for by [quoting PRC officials](https://www.bbc.com/news/world-europe-58610234).
 
@@ -114,8 +114,27 @@ Needless to say, this label is also opposed by some [Chinese Australians](https:
 
 ## Taiwan
 
+We find that the most common CCP-aligned phrase about Taiwan in the UK media
+is "reunification/reunify."
 
+![UK Taiwan](/country_topic_phrases/UK-Taiwan.jpg?raw=true "UK Taiwan")
+
+As our [guide](https://github.com/doublethinklab/media-alignment-2022/blob/main/phrase_guide.md) states,
+this framing incorrectly assumes that the unification of Taiwan and the PRC was true at some
+point in the past and is therefore aligned to CCP messaging.
+
+This finding suggests that editors in the UK media should consider not using this
+term when paraphrasing. If using direct quotes, the questionable assumption the 
+term presupposes should be made clear to the reader.
+
+We similarly find that the most CCP-opposed phrase is "Taiwanese". As our 
+[guide](https://github.com/doublethinklab/media-alignment-2022/blob/main/phrase_guide.md) shows,
+this is a term the CCP is keen to stamp out, particularly when referring to the
+Taiwanese people, language, or government. The term does however appear in the
+PRC state media, usually referring to companies or other organizations.
 
 ## Huawei / TikTok
 
+We find that `anti-China` once again dominates aligned phrases in this topic.
 
+![UK Huawei-TikTok](/country_topic_phrases/UK-Huawei-TikTok.jpg?raw=true "UK Huawei-TikTok")

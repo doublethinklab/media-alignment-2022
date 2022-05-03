@@ -116,24 +116,7 @@ Please follow these links to analyses for each country:
 
 ##### UK media coverage of Taiwan
 
-We find that the most common CCP-aligned phrase about Taiwan in the UK media
-is "reunification/reunify."
 
-![UK Taiwan](/country_topic_phrases/UK-Taiwan.jpg?raw=true "UK Taiwan")
-
-As our [guide](https://github.com/doublethinklab/media-alignment-2022/blob/main/phrase_guide.md) states,
-this framing incorrectly assumes that the unification of Taiwan and the PRC was true at some
-point in the past and is therefore aligned to CCP messaging.
-
-This finding suggests that editors in the UK media should consider not using this
-term when paraphrasing. If using direct quotes, the questionable assumption the 
-term presupposes should be made clear to the reader.
-
-We similarly find that the most CCP-opposed phrase is "Taiwanese". As our 
-[guide](https://github.com/doublethinklab/media-alignment-2022/blob/main/phrase_guide.md) shows,
-this is a term the CCP is keen to stamp out, particularly when referring to the
-Taiwanese people, language, or government. The term does however appear in the
-PRC state media, usually referring to companies or other organizations.
 
 ##### "Reunification"
 
