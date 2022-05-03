@@ -9,8 +9,14 @@ The relative attention give to each topic per media is:
 
 ![Topics per Media Egypt](/topic_coverage/Egypt-per_media.jpg?raw=true "Topics per Media Egypt")
 
-Clearly, the Huawei/TikTok and China topics are the only topics that get
-significant attention in the Egyptian media space in our sample.
+An interesting observation, consistent across all Arabic-speaking countries studied,
+is that the volume of coverage of the general China topic greatly outweighs
+the amount of coverage of the other topics in our set.
+
+Another observation is that alwafd and elbalad stand out as offering quite a bit more
+coverage of these other topics than other media in Egypt.
+
+However, Taiwan consistently stands out as the second most popular topic in Egypt.
 
 ## China
 
@@ -25,7 +31,7 @@ Egypt is among the leaders in giving attention to the phrase `China's domestic a
 The media almasryalyoum leads Egypt in giving attention to both `China's domestic affairs` and `Cold War mentality`.
 
 ![Egypt China's domestic affairs](/media_phrase_comparison/Egypt/China's%20domestic%20affairs.jpg?raw=true "Egypt China's domestic affairs")
-![Egypt China's domestic affairs](/media_phrase_comparison/Egypt/Cold%20War%20mentality.jpg?raw=true "Egypt Cold War mentality")
+![Egypt Cold War mentality](/media_phrase_comparison/Egypt/Cold%20War%20mentality.jpg?raw=true "Egypt Cold War mentality")
 
 Hits on `China's domestic affairs` include [this article](https://www.almasryalyoum.com/news/details/2408142) which is a lengthy opinion piece giving a lot of space to PRC messaging.
 
@@ -54,5 +60,6 @@ However, Egypt also has the lowest rate of using the phrase `pro-democracy` in d
 
 We note that almasryalyoum does not use this phrase in 23 articles about Hong Kong in our sample.
 This is a conspicuous absence.
+Of the phrases in our set, the most hits are aligned phrases suggesting that Hong Kong matters are the PRC's internal affairs.
 
-
+![](/media_topic_phrases/Egypt-www.almasryalyoum.com-Hong%20Kong.jpg?raw=true)
