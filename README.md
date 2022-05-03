@@ -4,7 +4,13 @@ View the report [here](https://github.com/doublethinklab/media-alignment-2022/bl
 
 View the phrase guide [here](https://github.com/doublethinklab/media-alignment-2022/blob/main/phrase_guide.md).
 
-The raw data outputs are available in the following locations.
+The raw data outputs are available in the following locations:
 - [Phrase lists](https://github.com/doublethinklab/media-alignment-2022/blob/main/data.csv)
-- [Counts of each phrase per topic per country](https://github.com/doublethinklab/media-alignment-2022/tree/main/country_topic_phrases)
-- [Counts of each phrase per media per country](https://github.com/doublethinklab/media-alignment-2022/tree/main/media_topic_phrases)
+- [Document and topic counts](https://github.com/doublethinklab/media-alignment-2022/blob/main/doc_counts.csv).
+- [Topic determinations are urls](https://github.com/doublethinklab/media-alignment-2022/tree/main/topics_urls).
+- [Phrase counts](https://github.com/doublethinklab/media-alignment-2022/blob/main/phrase_counts.csv).
+- [Entity counts](https://github.com/doublethinklab/media-alignment-2022/blob/main/entity_counts.csv).
+
+Visualizations of the data are available in the following locations:
+- [Plots of counts of each phrase per topic per country](https://github.com/doublethinklab/media-alignment-2022/tree/main/country_topic_phrases)
+- [Plots of counts of each phrase per media per country](https://github.com/doublethinklab/media-alignment-2022/tree/main/media_topic_phrases)
