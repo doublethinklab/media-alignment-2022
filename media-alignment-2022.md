@@ -46,6 +46,16 @@ We then used string matching to identify instances of the phrases in the documen
 This is feasible as the target phrases are multi-word, and are highly unlikely to be 
 substrings in other words.
 
+The results are presented in one of two ways:
+1. as raw counts;
+2. as a rate of phrase usage per article.
+
+We find (1) is the most intuitive.
+For (2), we also provide a 90% confidence interval, calculated from a binomial
+distribution using the number of instances of the phrase, and the number of 
+documents (either per media per topic, or per country per topic).
+This provides a way to capture uncertainty when conducting comparisons.
+
 ## Limitations
 
 Direct and indirect quotes are ubiquitous in news text data.
@@ -62,6 +72,9 @@ Third, we believe our phrase lists are currently over-optimized for English.
 
 Our topic classification methodology will involve some noise.
 Some articles marked as about a given topic may not be so.
+
+Some data sources are missing some articles due to scraping issues.
+They cannot be considered complete article sets.
 
 ## Findings
 
@@ -105,6 +118,22 @@ PRC state media, usually referring to companies or other organizations.
 
 #### "Reunification"
 
-We find that both Italy and Spain most prefer the term "reunification."
+We find that both Italy and Spain most prefer the term "reunification/reunify."
+
+![reunification](/country_phrase_comparison/reunification.jpg?raw=true "reunification")
+
+![reunify](/country_phrase_comparison/reunify.jpg?raw=true "reunify")
+
+We also break this down by media for Italy:
+
+![Italy reunification](/media_phrase_comparison/Italy/reunification.jpg?raw=true "Italy reunification")
+
+![Italy reuinfy](/media_phrase_comparison/Italy/reunify.jpg?raw=true "Italy reunify")
+
+and Spain:
+
+![Spain reunification](/media_phrase_comparison/Spain/reunification.jpg?raw=true "Spain reunification")
+
+![Spain reuinfy](/media_phrase_comparison/Spain/reunify.jpg?raw=true "Spain reunify")
 
 
