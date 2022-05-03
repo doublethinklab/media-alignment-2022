@@ -37,7 +37,7 @@ ANSA see a hit on the term `order in Hong Kong`, which comes from [this article]
 
 ![Italy Taiwan](/country_topic_phrases/Italy-Xinjiang.jpg?raw=true "Italy Xinjiang")
 
-What is notable is the absence of most of our opposed phrases, which you would expect to see if the Italian media were covering this issue:
+What is notable is the absence of most of our opposed phrases, which you would expect to see if the Italian media were covering this issue properly.
 For example, `ongoing genocide` appears in the media of 5/7 countries other than Italy (with Jordan and Lebanon not seeing this phrase). 
 
 ![ongoing genocide](/country_phrase_comparison/ongoing%20genocide.jpg?raw=true "ongoing genocide")
