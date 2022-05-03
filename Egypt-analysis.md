@@ -27,11 +27,32 @@ The media almasryalyoum leads Egypt in giving attention to both `China's domesti
 ![Egypt China's domestic affairs](/media_phrase_comparison/Egypt/China's%20domestic%20affairs.jpg?raw=true "Egypt China's domestic affairs")
 ![Egypt China's domestic affairs](/media_phrase_comparison/Egypt/Cold%20War%20mentality.jpg?raw=true "Egypt Cold War mentality")
 
+Hits on `China's domestic affairs` include [this article](https://www.almasryalyoum.com/news/details/2408142) which is a lengthy opinion piece giving a lot of space to PRC messaging.
+
 ## Taiwan
 
-(I think there is link to almasryalyoum here...)
+Egypt and Spain are the two countries who use the phrase `Taiwan, China` the most.
+
+![Taiwan, China](/country_phrase_comparison/Taiwan,%20China.jpg?raw=true "Taiwan, China")
+
+Within Egypt, the media who use this phrase are youm7, elmogaz, albawabhnews, and once again almasryalyoum.
+
+![Egypt Taiwan, China](/media_phrase_comparison/Egypt/Taiwan,%20China.jpg?raw=true "Egypt Taiwan, China")
+
+Focusing on almasryalyoum, [these](https://www.almasryalyoum.com/news/details/2473855) [two](https://www.almasryalyoum.com/news/details/2483812) articles are both entirely one-sided presentations of the CCP's position on Taiwan with a number of aligned phrases and no counterpoint or criticism.
+We have a strong indication that almasryalyoum is aligned to the CCP on Taiwan.
+
+## Hong Kong
+
+The phrase hits suggest that media in Egypt do use the phrase `pro-democracy` about Hong Kong, as well as a number of aligned phrases.
+
+![Egypt Hong Kong](/country_topic_phrases/Egypt-Hong%20Kong.jpg?raw=true "Egypt Hong Kong")
+
+However, Egypt also has the lowest rate of using the phrase `pro-democracy` in document classified as related to Hong Kong.
+
+![pro-democracy](/country_phrase_comparison/pro-democracy.jpg?raw=true "pro-democracy")
+
+We note that almasryalyoum does not use this phrase in 23 articles about Hong Kong in our sample.
+This is a conspicuous absence.
 
 
-
-
-look at the country comparison for pro-democracy
