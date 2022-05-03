@@ -30,7 +30,7 @@ however, at this point in time, we argue that the weight of evidence of crimes
 against humanity in Xinjiang makes this word choice less rather than more neutral.
 The BBC appears to stand out as the most likely to make this editorial decision.
 
-![UK alleged human rights abuses](/media_phrase_comparison/UK/alleged human rights abuses.jpg?raw=true "UK alleged human rights abuses")
+![UK alleged human rights abuses](/media_phrase_comparison/UK/alleged%20human%20rights%20abuses.jpg?raw=true "UK alleged human rights abuses")
 
 A random sample of the appearances of `religious extremism` appear to be attempts
 at editorial balance, [indirectly](https://www.dailymail.co.uk/wires/reuters/article-10476893/Olympics-Putin-Xi-mix-politics-sport-unveiling-alliance-Olympics.html) quoting PRC officials.
