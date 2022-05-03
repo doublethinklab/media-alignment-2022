@@ -42,12 +42,13 @@ We then used string matching to identify instances of the phrases in the documen
 This is feasible as the target phrases are multi-word, and are highly unlikely to be 
 substrings in other words.
 
+## Limitations
+
+
+
 ## Findings
 
 ### Raw Results
-
-Interested readers can explore the raw data of the findings in the following 
-locations.
 
 The raw data outputs are available in the following locations:
 - [Phrase lists](https://github.com/doublethinklab/media-alignment-2022/blob/main/data.csv)
@@ -64,4 +65,6 @@ Visualizations of the data are available in the following locations:
 
 ### Selected Findings
 
+#### Word Choice about Taiwan in the UK
 
+![UK Taiwan](/country_topic_phrases/UK-Taiwan.pdf?raw=true "UK Taiwan")
