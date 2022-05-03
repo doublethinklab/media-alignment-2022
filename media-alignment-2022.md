@@ -44,7 +44,20 @@ substrings in other words.
 
 ## Limitations
 
+Direct and indirect quotes are ubiquitous in news text data.
+The relative amounts of attention given to CCP-aligned and opposed phrases
+do not necessarily reflect PRC influence on a given media outlet or national media space.
+Instead, these patterns of attention likely reflect editorial decisions to present
+a balanced picture, often quoting PRC officials.
 
+These comparisons cannot be considered comprehensive for three reasons.
+First, we have only enumerated a subset of the potential aligned and opposed noun
+phrase choices for these topics.
+Second, we do not capture paraphrases of the subset we have identified.
+Third, we believe our phrase lists are currently over-optimized for English.
+
+Our topic classification methodology will involve some noise.
+Some articles marked as about a given topic may not be so.
 
 ## Findings
 
@@ -67,4 +80,4 @@ Visualizations of the data are available in the following locations:
 
 #### Word Choice about Taiwan in the UK
 
-![UK Taiwan](/country_topic_phrases/UK-Taiwan.pdf?raw=true "UK Taiwan")
+![UK Taiwan](/country_topic_phrases/UK-Taiwan.jpg?raw=true "UK Taiwan")
