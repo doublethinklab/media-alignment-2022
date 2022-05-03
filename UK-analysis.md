@@ -40,7 +40,7 @@ and a November 18, 2021 deal to begin publishing the China Daily-issued
 Although this is a clear vector of PRC influence, our data does not yet paint a 
 clear picture of patterns of over-alignment and under-opposition at The Independent.
 They are not shy about using opposed phrases, and, overall, their patterns
-os using our aligned phrases are not noticeably out-of-step with the rest of the 
+of using our aligned phrases are not noticeably out-of-step with the rest of the 
 UK media studied.
 
 The Daily Mail's preference for the term `religious extremism` may or may not
