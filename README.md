@@ -7,3 +7,4 @@ View the phrase guide [here](https://github.com/doublethinklab/media-alignment-2
 The raw data outputs are available in the following locations.
 - [Phrase lists](https://github.com/doublethinklab/media-alignment-2022/blob/main/data.csv)
 - [Counts of each phrase per topic per country](https://github.com/doublethinklab/media-alignment-2022/tree/main/country_topic_phrases)
+- [Counts of each phrase per media per country](https://github.com/doublethinklab/media-alignment-2022/tree/main/media_topic_phrases)
