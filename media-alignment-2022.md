@@ -112,7 +112,7 @@ The relative attention give to each topic per media is:
 
 ![Topics per Media UK](/topic_coverage/UK-per_media.jpg?raw=true "Topics per Media UK")
 
-Other than our catch-all, general, `China` topic, in our sampling period the UK
+Other than our catch-all, general China topic, in our sampling period the UK
 media appear most interested in the Xinjiang topic. Sky appears to have relatively
 little interest in Taiwan, although relatively interested in Hong Kong.
 
@@ -134,7 +134,7 @@ however, at this point in time, we argue that the weight of evidence of crimes
 against humanity in Xinjiang makes this word choice less rather than more neutral.
 The BBC appears to stand out as the most likely to make this editorial decision.
 
-![UK alleged human rights abuses](/media_phrase_comparison/UK/alleged human rights abuses.jpg?raw=true "UK alleged human rights abuses")
+![](media_phrase_comparison/UK/alleged human rights abuses.jpg?raw=true)
 
 A random sample of the appearances of `religious extremism` appear to be attempts
 at editorial balance, [indirectly](https://www.dailymail.co.uk/wires/reuters/article-10476893/Olympics-Putin-Xi-mix-politics-sport-unveiling-alliance-Olympics.html) quoting PRC officials.
@@ -205,12 +205,12 @@ The label `anti-China` is not often self-given and is a thought-terminating clic
 often thrown as a smear.
 A recent topical example in the English language media sphere comes from 
 Australia, where the [Australian Financial Review](https://twitter.com/drewpavlou/status/1520952101408440320?s=21&t=HXPSs33VyjNAVlb2aRQ96A) (considered to be more
-PRC-aligned in Australia due to elite capture of Australia's business elites)
+PRC-aligned in Australia due to cognitive capture of Australia's business elites)
 labeled self-identifying pro-China, anti-CCP activist Drew Pavlou as "anti-China."
 This label plays into the hands of CCP propaganda by equating the CCP with "China,"
 and therefore criticism of the CCP as criticism of China, and even, to some minds,
 as *racist*.
-Needless to say, this is a label that is also opposed by [Chinese Australians](https://twitter.com/badiucao/status/1520999889492406273?s=21&t=HXPSs33VyjNAVlb2aRQ96A).
+Needless to say, this label is also opposed by some [Chinese Australians](https://twitter.com/badiucao/status/1520999889492406273?s=21&t=HXPSs33VyjNAVlb2aRQ96A).
 
 
 
