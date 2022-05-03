@@ -76,6 +76,11 @@ Some articles marked as about a given topic may not be so.
 Some data sources are missing some articles due to scraping issues.
 They cannot be considered complete article sets.
 
+In many cases, the number of observations (i.e. articles about a topic) are 
+in the hundreds, making the findings relatively robust (also shown by the 90%
+confidence intervals). However, we believe our study needs to run over a longer
+timeframe to improve the robustness of the findings.
+
 ## Findings
 
 ### Raw Results
@@ -95,7 +100,14 @@ Visualizations of the data are available in the following locations:
 
 ### Selected Findings
 
-#### UK media coverage of Taiwan
+#### UK
+
+
+
+
+#### Taiwan
+
+##### UK media coverage of Taiwan
 
 We find that the most common CCP-aligned phrase about Taiwan in the UK media
 is "reunification/reunify."
@@ -116,7 +128,7 @@ this is a term the CCP is keen to stamp out, particularly when referring to the
 Taiwanese people, language, or government. The term does however appear in the
 PRC state media, usually referring to companies or other organizations.
 
-#### "Reunification"
+##### "Reunification"
 
 We find that both Italy and the UK most prefer the term "reunification/reunify,"
 followed by Spain.
@@ -137,24 +149,24 @@ and UK:
 
 ![UK reuinfy](/media_phrase_comparison/UK/reunify.jpg?raw=true "UK reunify")
 
-We can see for Italy this pattern is lead by Ansa and tg24.
-Ansa is noteworthy as they have republication agreements with the PRC state media.
+We can see for Italy this pattern is lead by ANSA and tg24.
+ANSA is noteworthy as they have republication agreements with the PRC state media.
 We note, for example, the use of reunification in [this article](https://www.ansa.it/sito/notizie/mondo/asia/2021/12/29/cina-misure-drastiche-se-taiwan-verso-indipendenza_e627e93c-808f-42cd-957f-0b2904e4f62a.html) in our sample,
 which reads like an unattributed PRC state media press release,
-but is marked as an Ansa editorial.
+but is marked as an ANSA editorial.
 This is certainly PRC influence, producing an article such as this.
 
 For the UK, it is The Guardian and the Daily Mail leading usage of this term.
 It is unlikely these editorial decisions are a function of PRC influence in 
-these cases, as these newspapers have no know ideological or financial ties
+these cases, as these newspapers have no known ideological or financial ties
 to the CCP. We therefore suggest that editors of these newspapers think 
-carefully about usage of this term.
+carefully about usage of this term in the future.
 
-#### "Taiwanese"
+##### "Taiwanese"
 
 Usage of the term "Taiwanese" is generally high, especially for the UK.
-It appears to be salient that the lowest rates of usage of this term come
-from Spain and Italy.
+It appears to be salient that among the lowest rates of usage of this term 
+include Spain and Italy.
 
 ![Taiwanese](/country_phrase_comparison/Taiwanese.jpg?raw=true "Taiwanese")
 
@@ -162,3 +174,49 @@ This is consistent with the view that the UK media's relatively high usage of
 "reunification/reunify" represents questionable editorial decisions and not PRC
 influence. On the other hand, it supports the view that the Italian and Spanish
 media report on Taiwan in a way more consistently aligned with CCP ideology.
+It is consistent that ANSA and tg24 show the lowest usage of the term in Italy.
+
+![Italy Taiwanese](/media_phrase_comparison/Italy/Taiwanese.jpg?raw=true "Italy Taiwanese")
+
+It appears that the French media are generally less interested in the Taiwan
+topic, however it is also possible that the limitations of our methodology
+have missed salient French language phrases that may tell a different picture.
+
+![France Taiwan](/country_topic_phrases/France-Taiwan.jpg?raw=true "France Taiwan")
+
+## Future Work
+
+To improve on the items listed in the **Limitations** section.
+
+We want to run this over a longer period of time, addressing the data collection
+process in order to obtain complete article sets.
+
+We believe our methodology is over-optimized for English. In general we see
+a greater number and variety of phrase hits in English language than other 
+languages, suggesting that our approach of identifying phrases over- and under-represented
+in English state media, and then translating to other languages, results in 
+phrase sets better suited for English and less able to capture salient aspects
+of word choice in other languages. A better approach would be to identify 
+phrases separately in each linguistic context, and then to bring them all together.
+
+We want to expand the size and coverage of our phrase lists to push them as close
+to comprehensive as possible. Doing so should allow us to make more general 
+observations and comparisons about the levels of alignment and opposition overall
+in these media spaces, and for particular media. This will require half-data-driven 
+qualitative analysis in each language as a first step.
+
+Another part of that will be to address the computational challenges in detecting
+noun phrase paraphrases automatically. We found multilingual paraphrase models
+to be more accurate in some languages than others given our current phrase set.
+This may require hand-labeling some data and fine-tuning existing paraphrase 
+models. This would also allow us to address verb phrases (such as `smear china`),
+which are more syntactically complex and require paraphrase detection even more.
+This was our reason for restricting the present work to noun phrases.
+
+Finally, our topic classification method could be improved. At the least, we 
+need to estimate the level of noise in the current approach.
+
+We would also like to expand our phrase lists enough to address topics such as
+Belt and Road independently, and expand our topic list overall. We will need to
+monitor the changing conversation in news media over time to watch for new
+developments and salient phrases that emerge as world events unfold.
