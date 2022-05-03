@@ -9,10 +9,9 @@ The relative attention give to each topic per media is:
 
 ![Topics per Media Italy](/topic_coverage/Italy-per_media.jpg?raw=true "Topics per Media Italy")
 
-Taiwan and Xinjiang receive relatively little attention in the Italian media.
-The three topics that receive the most attention are Hong Kong, Huawei/Tiktok, and the general China topic.
-We note that for Huawei/TikTok, we did not find any instances of our aligned or opposed phrases.
-This underscores the need to refine our methodology with specific Italian textual analysis.
+The general China topic is (as expected) has the most volume.
+The next most popular topic is Hong Kong, followed by Taiwan.
+Xinjiang is of relatively less interest to the Italian media.
 
 ## Hong Kong
 
