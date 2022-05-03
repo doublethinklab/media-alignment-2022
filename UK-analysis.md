@@ -77,7 +77,7 @@ The Independent leads in preference for attention given to the phrase
 ![UK new Cold War](/media_phrase_comparison/UK/new%20Cold%20War.jpg?raw=true "UK new Cold War")
 
 Notably, this term appears in [opinion](https://www.independent.co.uk/voices/culture-wars-boris-johnson-threat-to-uk-b1885436.html), 
-not as quotes, in the Independent.
+not as quotes, in The Independent.
 This may or may not be ideological alignment between the CCP and The Independent.
 
 The BBC has the lead on using the phrase `Cold War mentality`.
@@ -96,7 +96,7 @@ countries studied in the average use of this phrase, but not entirely.
 
 ![anti-China](/country_phrase_comparison/anti-China.jpg?raw=true "anti-China")
 
-We see that the Guardian is above the mean of the second place country, India, 
+We see that The Guardian is above the mean of the second place country, India, 
 and that The Independent and BBC are both well above all other countries in our
 sample.
 
@@ -119,11 +119,13 @@ is "reunification/reunify."
 
 ![UK Taiwan](/country_topic_phrases/UK-Taiwan.jpg?raw=true "UK Taiwan")
 
+No media particularly stands out in use of the term "reunification."
+
+![UK reunification](/media_phrase_comparison/UK/reunification.jpg?raw=true "UK reunification")
+
 As our [guide](https://github.com/doublethinklab/media-alignment-2022/blob/main/phrase_guide.md) states,
 this framing incorrectly assumes that the unification of Taiwan and the PRC was true at some
-point in the past and is therefore aligned to CCP messaging.
-
-This finding suggests that editors in the UK media should consider not using this
+point in the past and is therefore aligned to CCP messaging. This finding suggests that editors in the UK media should consider not using this
 term when paraphrasing. If using direct quotes, the questionable assumption the 
 term presupposes should be made clear to the reader.
 

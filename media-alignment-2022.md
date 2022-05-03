@@ -107,7 +107,7 @@ all media in all countries:
 ![Topics per Country](/topic_coverage/per_country.jpg?raw=true "Topics per Country")
 
 Please follow these links to analyses for each country:
-- [UK]()
+- [UK](https://github.com/doublethinklab/media-alignment-2022/blob/main/UK-analysis.md)
 
 
 
@@ -135,7 +135,7 @@ We also break this down by media for Italy:
 
 and UK:
 
-![UK reunification](/media_phrase_comparison/UK/reunification.jpg?raw=true "UK reunification")
+
 
 ![UK reuinfy](/media_phrase_comparison/UK/reunify.jpg?raw=true "UK reunify")
 
