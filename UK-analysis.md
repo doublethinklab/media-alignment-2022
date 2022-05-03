@@ -22,12 +22,8 @@ is a relatively high usage rate of the phrase `anti-China` in virtually every
 topic. The phrases `alleged human rights abuses` and `religious extremism` are
 also highly featured aligned phrases in the UK, both appearing nearing 40 times.
 
-As expected, a random sample of these documents indicates that most  
-(likely) [indirect quotes](https://news.sky.com/story/winter-olympics-2022-china-warns-uk-us-and-australia-will-pay-the-price-for-diplomatic-boycott-of-beijing-games-12490517),
-but [not all](https://www.bbc.com/news/business-57830856).
-The choice of this phrase could be considered an attempt to appear editorially neutral, 
-however, at this point in time, we argue that the weight of evidence of crimes
-against humanity in Xinjiang makes this word choice less rather than more neutral.
+As expected, a random sample of these documents indicates that most  (likely) [indirect quotes](https://news.sky.com/story/winter-olympics-2022-china-warns-uk-us-and-australia-will-pay-the-price-for-diplomatic-boycott-of-beijing-games-12490517), but [not all](https://www.bbc.com/news/business-57830856).
+The choice of this phrase could be considered an attempt to appear editorially neutral, however, at this point in time, we argue that the weight of evidence of crimes against humanity in Xinjiang makes this word choice less rather than more neutral.
 The BBC appears to stand out as the most likely to make this editorial decision.
 
 ![UK alleged human rights abuses](/media_phrase_comparison/UK/alleged%20human%20rights%20abuses.jpg?raw=true "UK alleged human rights abuses")
