@@ -16,3 +16,4 @@ Visualizations of the data are available in the following locations:
 - [Plots of counts of each phrase per media per country](https://github.com/doublethinklab/media-alignment-2022/tree/main/media_topic_phrases)
 - [Comparisons of usage of each phrase per article per country](https://github.com/doublethinklab/media-alignment-2022/tree/main/country_phrase_comparison)
 - [Comparisons of usage of each phrase per article per media per country](https://github.com/doublethinklab/media-alignment-2022/tree/main/media_phrase_comparison)
+- [Comparisons of number of articles addressing each topic](https://github.com/doublethinklab/media-alignment-2022/tree/main/topic_coverage)
