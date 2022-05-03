@@ -58,8 +58,45 @@ However, Egypt also has the lowest rate of using the phrase `pro-democracy` in d
 
 ![pro-democracy](/country_phrase_comparison/pro-democracy.jpg?raw=true "pro-democracy")
 
-We note that almasryalyoum does not use this phrase in 23 articles about Hong Kong in our sample.
+Local politics may help to explain this observation.
+Egypt had an uprising over 10 years ago, which led to Islamists taking power for a short period and then the army retaking government.
+The Jordanian and Egyptian media have been negatively covering any protests.
+
+We note that almasryalyoum does not use the phrase `pro-democracy` in 23 articles about Hong Kong in our sample.
 This is a conspicuous absence.
 Of the phrases in our set, the most hits are aligned phrases suggesting that Hong Kong matters are the PRC's internal affairs.
 
 ![](/media_topic_phrases/Egypt-www.almasryalyoum.com-Hong%20Kong.jpg?raw=true)
+
+## Xinjiang
+
+The Egyptian media space's coverage of Xinjiang includes unusually high attention given to the phrases `counter-terrorism` and `anti-terrorism`.
+
+![](/country_topic_phrases/Egypt-Xinjiang.jpg?raw=true)
+
+Egypt leads the other countries in this.
+
+![](/country_phrase_comparison/anti-terrorism.jpg?raw=true)
+![](/country_phrase_comparison/counter%20terrorism.jpg?raw=true)
+
+Once again almasryalyoum leads Egypt in giving attention to this CCP messaging.
+
+![](/media_phrase_comparison/Egypt/counter%20terrorism.jpg?raw=true)
+
+However, while [this article](https://www.almasryalyoum.com/news/details/2484931) does give prominence to the CCP messaging, it balances the article at the end citing evidence of human rights violations. 
+
+I remains to be determined whether there is a deeper reason for the Egyptian media to place more attention on the concept of terrorism.
+Overall, the Egyptian media gave much less coverage to Xinjiang than other countries, but far more coverage to the general China topic.
+It is also the country that gives the third-most attention to Taiwan, by quite a margin.
+
+![Topics per Country](/topic_coverage/per_country.jpg?raw=true "Topics per Country")
+
+This suggests that Xinjiang issues could be avoided on purpose, although other explanations cannot be ruled out.
+This question may deserve a closer look, particularly given data over a longer timeframe.
+
+## Huawei/TikTok
+
+Egypt clearly leads the countries in our sample in covering this topic.
+However, our set of phrases do not find many hits.
+
+![](/country_topic_phrases/Egypt-Huawei-TikTok.jpg?raw=true)

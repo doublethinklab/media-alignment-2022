@@ -101,15 +101,10 @@ Visualizations of the data are available in the following locations:
 
 ### Selected Findings
 
-The following shows the relative attention given to each topic averaged over
-all media in all countries:
-
-![Topics per Country](/topic_coverage/per_country.jpg?raw=true "Topics per Country")
-
 Please follow these links to selected findings for each country:
 - [UK](https://github.com/doublethinklab/media-alignment-2022/blob/main/UK-analysis.md)
 - [Italy](https://github.com/doublethinklab/media-alignment-2022/blob/main/Italy-analysis.md)
-- [Egypt]()
+- [Egypt](https://github.com/doublethinklab/media-alignment-2022/blob/main/Egypt-analysis.md)
 - [Jordan]()
 - [Lebanon]()
 - [India]()
