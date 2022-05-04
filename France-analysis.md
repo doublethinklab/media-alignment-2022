@@ -11,7 +11,7 @@ The relative attention give to each topic per media is:
 Xinjiang and Hong Kong are preferred over Taiwan and Huawei in this sample.
 
 Xinjiang and the protests in Hong Kong have been quite 
-covered in France, largely contributing to the degradation of China's image,
+covered in France, largely contributing to the degradation of China's image.
 
 The only topics for which we see any aligned phrases are Taiwan and Xinjiang.
 The counts are very low, and are accounted for by quoting PRC state media.
