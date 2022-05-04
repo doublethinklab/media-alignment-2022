@@ -45,6 +45,9 @@ Within Egypt, the media who use this phrase are youm7, elmogaz, albawabhnews, an
 
 ![Egypt Taiwan, China](/media_phrase_comparison/Egypt/Taiwan,%20China.jpg?raw=true "Egypt Taiwan, China")
 
+youm7 often recycles stories from other international media source and sometimes publishes them without significant editing.
+We assume it is in their interest to publish any material they receive to fill their news hole, since they do not have a large team to create original content.
+
 Focusing on almasryalyoum, [these](https://www.almasryalyoum.com/news/details/2473855) [two](https://www.almasryalyoum.com/news/details/2483812) articles are both entirely one-sided presentations of the CCP's position on Taiwan with a number of aligned phrases and no counterpoint or criticism.
 We have a strong indication that almasryalyoum is aligned to the CCP on Taiwan.
 
@@ -100,3 +103,8 @@ Egypt clearly leads the countries in our sample in covering this topic.
 However, our set of phrases do not find many hits.
 
 ![](/country_topic_phrases/Egypt-Huawei-TikTok.jpg?raw=true)
+
+## Future Work
+
+As for the other Arabic-speaking countries in our analysis, we need to start from textual analysis in Arabic to identify both the topics and phrases that are most salient in these linguistic contexts.
+

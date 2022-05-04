@@ -69,6 +69,14 @@ First, we have only enumerated a subset of the potential aligned and opposed nou
 phrase choices for these topics.
 Second, we do not capture paraphrases of the subset we have identified.
 Third, we believe our phrase lists are currently over-optimized for English.
+By that we mean that our phrase lists were developed from English data, and are
+therefore better suited to capture the way alignment and opposition is expressed in English.
+For example, the term “النظام الصيني”  translates into Arabic as “the Chinese regime,” a term that carries negative connotations towards that entity and is often used in Arab media to describe opposing governments, for instance the “Syrian Regime.” 
+However, when reviewing one of the articles that used that term, we found the context in which that phrase was used is very different. 
+The term was referring (in a positive manner) to the new Chinese weapons system (shorthand, the “Chinese System” which is written the same way as the “Chinese Regime” in Arabic but carries a very different meaning). 
+Another article that used that same phrase was a positive article noting that the Chinese (super computer) system was the fastest in the world.
+This is an example where the (correct) translation can return inconsistent results.
+We suspect we are also just missing too many important phrases in languages other than English.
 
 Our topic classification methodology will involve some noise.
 Some articles marked as about a given topic may not be so.
@@ -80,6 +88,8 @@ In many cases, the number of observations (i.e. articles about a topic) are
 in the hundreds, making the findings relatively robust (also shown by the 90%
 confidence intervals). However, we believe our study needs to run over a longer
 timeframe to improve the robustness of the findings.
+
+Finally, the breadth of our topics is limited and likely also over-optimized for salience in the English language media we studied.
 
 ## Findings
 
@@ -105,11 +115,11 @@ Please follow these links to selected findings for each country:
 - [UK](https://github.com/doublethinklab/media-alignment-2022/blob/main/UK-analysis.md)
 - [Italy](https://github.com/doublethinklab/media-alignment-2022/blob/main/Italy-analysis.md)
 - [Egypt](https://github.com/doublethinklab/media-alignment-2022/blob/main/Egypt-analysis.md)
-- [Jordan]()
-- [Lebanon]()
-- [India]()
-- [France]()
-- [Spain]()
+- [Jordan](https://github.com/doublethinklab/media-alignment-2022/blob/main/Jordan-analysis.md)
+- [Lebanon](https://github.com/doublethinklab/media-alignment-2022/blob/main/Lebanon-analysis.md)
+- [India](https://github.com/doublethinklab/media-alignment-2022/blob/main/India-analysis.md)
+- [France](https://github.com/doublethinklab/media-alignment-2022/blob/main/France-analysis.md)
+- [Spain](https://github.com/doublethinklab/media-alignment-2022/blob/main/Spain-analysis.md)
 
 ## Future Work
 
