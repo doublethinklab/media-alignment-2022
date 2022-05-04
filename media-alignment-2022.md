@@ -113,11 +113,11 @@ Visualizations of the data are available in the following locations:
 
 Please follow these links to selected findings for each country:
 - [UK](https://github.com/doublethinklab/media-alignment-2022/blob/main/UK-analysis.md)
+- [India](https://github.com/doublethinklab/media-alignment-2022/blob/main/India-analysis.md)
 - [Italy](https://github.com/doublethinklab/media-alignment-2022/blob/main/Italy-analysis.md)
 - [Egypt](https://github.com/doublethinklab/media-alignment-2022/blob/main/Egypt-analysis.md)
 - [Jordan](https://github.com/doublethinklab/media-alignment-2022/blob/main/Jordan-analysis.md)
 - [Lebanon](https://github.com/doublethinklab/media-alignment-2022/blob/main/Lebanon-analysis.md)
-- [India](https://github.com/doublethinklab/media-alignment-2022/blob/main/India-analysis.md)
 - [France](https://github.com/doublethinklab/media-alignment-2022/blob/main/France-analysis.md)
 - [Spain](https://github.com/doublethinklab/media-alignment-2022/blob/main/Spain-analysis.md)
 
