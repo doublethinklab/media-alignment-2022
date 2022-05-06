@@ -136,3 +136,7 @@ PRC state media, usually referring to companies or other organizations.
 We find that `anti-China` once again dominates aligned phrases in this topic.
 
 ![UK Huawei-TikTok](/country_topic_phrases/UK-Huawei-TikTok.jpg?raw=true "UK Huawei-TikTok")
+
+## Acknowledgements
+
+With thanks to David Green for contributing to this analysis.

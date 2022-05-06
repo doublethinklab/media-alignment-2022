@@ -1,5 +1,7 @@
 # Egypt Analysis
 
+With thanks to Jad Melki for contributing to our analyses of Egypt.
+
 The following analysis is most likely limited by the fact that our aligned and
 opposed phrases are over-optimized for English.
 
@@ -108,3 +110,6 @@ However, our set of phrases do not find many hits.
 
 As for the other Arabic-speaking countries in our analysis, we need to start from textual analysis in Arabic to identify both the topics and phrases that are most salient in these linguistic contexts.
 
+## Acknowledgements
+
+With thanks to Jad Melki for contributing to this analysis.

@@ -48,3 +48,7 @@ At this stage we are unable to determine whether this is an artifact of our data
 ## Future Work
 
 As for the other Arabic-speaking countries in our analysis, we need to start from textual analysis in Arabic to identify both the topics and phrases that are most salient in these linguistic contexts.
+
+## Acknowledgements
+
+With thanks to Jad Melki for contributing to this analysis.

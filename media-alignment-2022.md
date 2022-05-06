@@ -157,3 +157,9 @@ We would also like to expand our phrase lists enough to address topics such as
 Belt and Road independently, and expand our topic list overall. We will need to
 monitor the changing conversation in news media over time to watch for new
 developments and salient phrases that emerge as world events unfold.
+
+## Acknowledgements
+
+We warmly thank our in-country experts for contributing to the analyses and translations.
+- Egpyt, Jordan, Lebanon: Jad Melki
+- UK: David Green
