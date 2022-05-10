@@ -85,3 +85,7 @@ We argue that such an editorial decision is misleading to readers, presenting a 
 Indian media give more attention to opposed phrases with respect to this topic than other countries, which may represent their own security concerns about PRC technology imports.
 
 ![](/country_topic_phrases/India-Huawei-TikTok.jpg?raw=true)
+
+## Acknowledgements
+
+With thanks to Maya Mirchandani for contributing to this analysis.

@@ -161,5 +161,6 @@ developments and salient phrases that emerge as world events unfold.
 ## Acknowledgements
 
 We warmly thank our in-country experts for contributing to the analyses and translations.
-- Egpyt, Jordan, Lebanon: Jad Melki
-- UK: David Green
+- Jad Melki: Egpyt, Jordan, Lebanon
+- David Green: UK
+- Maya Mirchandani: India
