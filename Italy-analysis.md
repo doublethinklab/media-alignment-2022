@@ -36,8 +36,9 @@ ANSA see a hit on the term `order in Hong Kong`, which comes from [this article]
 
 ![Italy Taiwan](/country_topic_phrases/Italy-Xinjiang.jpg?raw=true "Italy Xinjiang")
 
-What is notable is the absence of most of our opposed phrases, which you would expect to see if the Italian media were covering this issue properly.
+What is notable is the absence of most of our opposed phrases, which you would expect to see if the Italian media were covering this issue fully.
 For example, `ongoing genocide` appears in the media of 5/7 countries other than Italy (with Jordan and Lebanon not seeing this phrase). 
+There is disagreement about whether the evidence of human rights violations in Xinjiang is sufficient to judge an ongoing genocide, and one possibility is that the absence of this phrase in the Italian media reflects that the discussion in Italy has not supported this judgment.
 
 ![ongoing genocide](/country_phrase_comparison/ongoing%20genocide.jpg?raw=true "ongoing genocide")
 
@@ -66,3 +67,7 @@ ANSA appear to be in alignment with the CCP position on Taiwan and Hong Kong.
 The Italian media landscape deserves further analysis.
 We should commence from textual analysis in Italian.
 We should also cover topics such as BRI more deeply, following the results of [prior work](https://www.iai.it/it/pubblicazioni/one-belt-one-voice-i-media-cinesi-italia).
+
+## Acknowledgements
+
+With thanks to Beatrice Gallelli for contributing to this analysis.
