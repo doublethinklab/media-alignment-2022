@@ -1,4 +1,4 @@
-# Jordan Analysis
+# Lebanon Analysis
 
 With thanks to Jad Melki for contributing to our analyses of Lebanon.
 
